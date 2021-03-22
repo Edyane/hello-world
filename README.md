@@ -1,2 +1,1 @@
-# hello-world
-Exercícios de Algoritmos e Programação de Computadores
+# Exercícios de Algoritmos e Programação de Computadores
